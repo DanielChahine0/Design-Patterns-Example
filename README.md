@@ -1,5 +1,5 @@
 # Design-Patterns-Example
-Open Source examples for the different design patterns
+Open Source examples for the different design patterns. The examples provided are all java based patterns and they're inspired from the book Head First Design Pattern
 
 # Design Patterns covered so far
 ## Strategy Pattern
