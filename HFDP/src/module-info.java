@@ -6,4 +6,5 @@
  *
  */
 module HFDP {
+	requires java.desktop;
 }
